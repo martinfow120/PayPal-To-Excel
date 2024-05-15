@@ -1,2 +1,2 @@
 # PayPal-To-Excel
-Program that saves pyments in Paypal in excel ordered by intitution, payment day and amount.
+Program that saves  Paypal pyments in excel ordered by institution, payment day and amount.
